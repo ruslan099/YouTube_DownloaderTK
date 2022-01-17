@@ -60,7 +60,7 @@ lbl_views.pack()
 ent_views = Entry(root, width=20, borderwidth=2)
 ent_views.pack()
 
-lbl_length = Label(root, text="Длина видео(в секундах):")
+lbl_length = Label(root, text="Длина видео(в сек.):")
 lbl_length.pack()
 ent_length = Entry(root, width=20, borderwidth=2)
 ent_length.pack()
